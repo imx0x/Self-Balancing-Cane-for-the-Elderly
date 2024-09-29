@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cec00a84-0d90-4717-84bf-c0ab16029460)# Self-Balancing Cane for the Elderly
+# Self-Balancing Cane for the Elderly
 * Developed a self-balancing cane using an inverted pendulum mechanism, incorporating a ball as the base for balance and stability.
 * Integrated gyroscopes, accelerometers, and advanced features for real-time stabilization and enhanced functionality.
 * Included innovative features such as a remote monitoring camera for enhanced safety, an SOS button for instant emergency alerts, and a built-in flashlight for improved visibility in low-light conditions.
